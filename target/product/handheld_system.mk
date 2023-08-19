@@ -57,7 +57,6 @@ PRODUCT_PACKAGES += \
     MtpService \
     MusicFX \
     PacProcessor \
-    PrintRecommendationService \
     PrintSpooler \
     ProxyHandler \
     screenrecord \
